@@ -1,0 +1,3 @@
+# The Christmas Tree Problem
+
+In this problem,...
